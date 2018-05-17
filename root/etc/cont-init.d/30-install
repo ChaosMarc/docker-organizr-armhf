@@ -4,6 +4,10 @@
 [[ ! -d /config/www/Dashboard/.git ]] && \
 git clone -b v2-develop https://github.com/causefx/Organizr /config/www/Dashboard
 
+#update to latest push
+cd /config/www/Dashboard
+git pull
+
 # permissions
 chown -R abc:abc \
 	/config
