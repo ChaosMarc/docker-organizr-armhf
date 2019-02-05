@@ -7,6 +7,8 @@ v2-develop branch fork of [lsioarmhf/organizr](https://github.com/linuxserver/do
 [appurl]: https://github.com/causefx/Organizr
 [hub]: https://hub.docker.com/r/lsioarmhf/organizr/
 
+THIS IMAGE IS DEPRECATED. PLEASE USE THE MULTI-ARCH IMAGES AT `linuxserver/organizr`
+
 [![linuxserver.io](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_medium.png)][linuxserverurl]
 
 The [LinuxServer.io][linuxserverurl] team brings you another container release featuring easy user mapping and community support. Find us for support at:
