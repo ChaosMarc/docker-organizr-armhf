@@ -1,3 +1,5 @@
+THIS IMAGE IS NO LONGER MAINTAINED. PLEASE USE IMAGES AT [organizrtools/organizr-v2](https://hub.docker.com/r/organizrtools/organizr-v2/)
+
 v2-develop branch fork of [lsioarmhf/organizr](https://github.com/linuxserver/docker-organizr-armhf): [keksnase/organizr-v2-armhf](https://hub.docker.com/r/keksnase/organizr-v2-armhf/)
 
 [linuxserverurl]: https://linuxserver.io
